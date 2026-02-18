@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/data
+/src/data
 /.pnp
 .pnp.*
 .yarn/*
@@ -39,4 +39,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 pp
-
+pp.png
